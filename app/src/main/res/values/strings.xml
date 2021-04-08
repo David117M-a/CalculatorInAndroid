@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btnOperation">+</string>
+    <string name="btnOne">1</string>
+    <string name="btnFive">1</string>
+    <string name="btnEqual">=</string>
+    <string name="btnSubstraction">-</string>
+    <string name="btnC">C</string>
+    <string name="btnPoint">.</string>
+    <string name="btnZero">0</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnSum">+</string>
+    <string name="btnNine">9</string>
+    <string name="btnDivision">/</string>
+    <string name="btnSix">6</string>
+    <string name="btnFour">4</string>
+    <string name="btnMultiplication">*</string>
+    <string name="btnThree">3</string>
+    <string name="btnTwo">2</string>
+    <string name="btn5">5</string>
+</resources>
